@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Oppo F1S",
+      "price": "209",
+      "status": true,
+      "id": 29
+    },
+    {
+      "name": "Samsung Galaxy S10",
+      "price": "12321",
+      "status": true,
+      "id": 31
+    },
+    {
+      "name": "Oppo S5",
+      "price": "500",
+      "status": true,
+      "id": 32
+    },
+    {
+      "name": "Black Berry Z10",
+      "price": "432",
+      "status": "",
+      "id": 34
+    },
+    {
+      "id": 35,
+      "name": "Samsung Galaxy Note 6",
+      "price": "430",
+      "status": false
+    }
+  ]
+}
